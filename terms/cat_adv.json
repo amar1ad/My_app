@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "t_7",
+    "term_ar": "الكلاس في جافا",
+    "term_en": "Java Class",
+    "definition_ar": "قالب لإنشاء الكائنات.",
+    "definition_en": "Blueprint for objects.",
+    "category_id": "cat_adv",
+    "example_code": "class Car { String model; }",
+    "language": "java",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_8",
+    "term_ar": "المؤشرات في C++",
+    "term_en": "C++ Pointers",
+    "definition_ar": "متغير يحمل عنوان ذاكرة لمتغير آخر.",
+    "definition_en": "Variable holding memory address.",
+    "category_id": "cat_adv",
+    "example_code": "int* ptr = &x;",
+    "language": "cpp",
+    "extra_fields": []
+  }
+]
