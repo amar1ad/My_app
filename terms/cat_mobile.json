@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "t_13",
+    "term_ar": "Flutter Widgets (Stateless)",
+    "term_en": "Flutter StatelessWidget",
+    "definition_ar": "ودجة لا تتغير حالتها بعد الإنشاء.",
+    "definition_en": "Widget whose state doesn't change.",
+    "category_id": "cat_mobile",
+    "example_code": "class MyWidget extends StatelessWidget { ... }",
+    "language": "dart",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_14",
+    "term_ar": "Stateful Widget في Flutter",
+    "term_en": "Flutter StatefulWidget",
+    "definition_ar": "ودجة يمكن أن تتغير حالتها بمرور الوقت.",
+    "definition_en": "Widget that can change state.",
+    "category_id": "cat_mobile",
+    "example_code": "class Counter extends StatefulWidget { ... }",
+    "language": "dart",
+    "extra_fields": []
+  }
+]
