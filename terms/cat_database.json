@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "t_11",
+    "term_ar": "SELECT في SQL",
+    "term_en": "SQL SELECT",
+    "definition_ar": "يستخدم لاستعلام البيانات من قاعدة البيانات.",
+    "definition_en": "Query data from database.",
+    "category_id": "cat_database",
+    "example_code": "SELECT name FROM users;",
+    "language": "sql",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_12",
+    "term_ar": "JOIN في SQL",
+    "term_en": "SQL JOIN",
+    "definition_ar": "يدمج الصفوف من جدولين بناءً على عمود مشترك.",
+    "definition_en": "Combine rows from two tables.",
+    "category_id": "cat_database",
+    "example_code": "SELECT * FROM orders JOIN customers ON orders.cust_id = customers.id;",
+    "language": "sql",
+    "extra_fields": []
+  }
+]
