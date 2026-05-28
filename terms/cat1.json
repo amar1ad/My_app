@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "mppvqzkf5zpeu",
+    "term_ar": "متغير",
+    "term_en": "Variable",
+    "definition_ar": "مكان لتخزين قيمة",
+    "definition_en": "Storage location",
+    "category_id": "cat1",
+    "example_code": "int x=5;",
+    "language": "cpp",
+    "extra_fields": []
+  }
+]
