@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "t_17",
+    "term_ar": "الشبكات العصبية الاصطناعية",
+    "term_en": "Artificial Neural Networks",
+    "definition_ar": "نموذج مستوحى من الدماغ للتعلم العميق.",
+    "definition_en": "Brain-inspired model for deep learning.",
+    "category_id": "cat_ai",
+    "example_code": "model = Sequential([Dense(128, activation='relu')])",
+    "language": "python",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_18",
+    "term_ar": "معالجة اللغة الطبيعية (NLP)",
+    "term_en": "Natural Language Processing",
+    "definition_ar": "تفاعل الحاسوب مع اللغة البشرية.",
+    "definition_en": "Computer interaction with human language.",
+    "category_id": "cat_ai",
+    "example_code": "import nltk; nltk.sentiment",
+    "language": "python",
+    "extra_fields": []
+  }
+]
