@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "t_23",
+    "term_ar": "العقود الذكية (Smart Contracts)",
+    "term_en": "Smart Contracts",
+    "definition_ar": "برامج تعمل على البلوكشين تنفذ اتفاقيات تلقائياً.",
+    "definition_en": "Self-executing programs on blockchain.",
+    "category_id": "cat_blockchain",
+    "example_code": "pragma solidity ^0.8.0;\ncontract MyContract { }",
+    "language": "solidity",
+    "extra_fields": []
+  }
+]
