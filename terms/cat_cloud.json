@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "t_22",
+    "term_ar": "AWS EC2",
+    "term_en": "AWS EC2",
+    "definition_ar": "خوادم افتراضية قابلة للتوسع في السحابة.",
+    "definition_en": "Virtual servers in the cloud.",
+    "category_id": "cat_cloud",
+    "example_code": "aws ec2 run-instances ...",
+    "language": "bash",
+    "extra_fields": []
+  }
+]
