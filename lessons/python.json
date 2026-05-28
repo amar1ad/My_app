@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "l_1",
+    "title_ar": "أساسيات بايثون (Python Basics)",
+    "title_en": "Python Basics",
+    "description_ar": "دورة شاملة للمبتدئين في بايثون تغطي المتغيرات، الجمل الشرطية، الحلقات والدوال.",
+    "description_en": "Comprehensive beginner course covering variables, conditionals, loops, functions.",
+    "language_id": "python",
+    "order": 1,
+    "sections": [
+      {
+        "type": "image",
+        "title": "شعار بايثون",
+        "content": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+      },
+      {
+        "type": "explanation",
+        "title": "أول برنامج",
+        "content": "لنبدأ بطباعة Hello World."
+      },
+      {
+        "type": "code",
+        "title": "البرنامج التقليدي",
+        "content": "print('Hello, World!')",
+        "language": "python"
+      }
+    ]
+  },
+  {
+    "_id": "l_7",
+    "title_ar": "أساسيات أمن المعلومات",
+    "title_en": "Cybersecurity Basics",
+    "description_ar": "تعلم المفاهيم الأساسية لأمن المعلومات: التشفير، المصادقة، الهجمات الشائعة.",
+    "description_en": "Learn core cybersecurity concepts.",
+    "language_id": "python",
+    "order": 7,
+    "sections": [
+      {
+        "type": "image",
+        "title": "أمن المعلومات",
+        "content": "https://picsum.photos/id/104/400/200"
+      },
+      {
+        "type": "note",
+        "title": "مبادئ الأمن",
+        "content": "السرية، السلامة، التوفر."
+      }
+    ]
+  },
+  {
+    "_id": "l_8",
+    "title_ar": "مقدمة في الذكاء الاصطناعي",
+    "title_en": "Intro to AI",
+    "description_ar": "نظرة عامة على الذكاء الاصطناعي وتعلم الآلة.",
+    "description_en": "Overview of AI and machine learning.",
+    "language_id": "python",
+    "order": 8,
+    "sections": [
+      {
+        "type": "image",
+        "title": "الذكاء الاصطناعي",
+        "content": "https://picsum.photos/id/1/400/200"
+      },
+      {
+        "type": "explanation",
+        "title": "تعلم الآلة",
+        "content": "تعلم الآلة هو فرع من الذكاء الاصطناعي."
+      }
+    ]
+  }
+]
