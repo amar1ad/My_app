@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "t_24",
+    "term_ar": "MQTT (إنترنت الأشياء)",
+    "term_en": "MQTT Protocol",
+    "definition_ar": "بروتوكول خفيف لنقل البيانات بين أجهزة IoT.",
+    "definition_en": "Lightweight messaging protocol for IoT.",
+    "category_id": "cat_iot",
+    "example_code": "mosquitto_pub -t topic -m 'hello'",
+    "language": "bash",
+    "extra_fields": []
+  }
+]
