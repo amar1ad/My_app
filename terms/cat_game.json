@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "t_21",
+    "term_ar": "Unity Rigidbody",
+    "term_en": "Unity Rigidbody",
+    "definition_ar": "مكون فيزيائي يضيف الجاذبية والاصطدامات.",
+    "definition_en": "Physics component for gravity and collisions.",
+    "category_id": "cat_game",
+    "example_code": "GetComponent<Rigidbody>().AddForce(Vector3.up);",
+    "language": "csharp",
+    "extra_fields": []
+  }
+]
