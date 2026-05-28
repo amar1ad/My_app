@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "t_15",
+    "term_ar": "التشفير المتماثل",
+    "term_en": "Symmetric Encryption",
+    "definition_ar": "نفس المفتاح للتشفير وفك التشفير.",
+    "definition_en": "Same key for encryption and decryption.",
+    "category_id": "cat_security",
+    "example_code": "AES, DES",
+    "language": "python",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_16",
+    "term_ar": "التشفير غير المتماثل",
+    "term_en": "Asymmetric Encryption",
+    "definition_ar": "مفتاحان: عام وخاص.",
+    "definition_en": "Public and private keys.",
+    "category_id": "cat_security",
+    "example_code": "RSA, ECC",
+    "language": "python",
+    "extra_fields": []
+  }
+]
