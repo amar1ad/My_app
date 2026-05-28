@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "t_19",
+    "term_ar": "Dockerfile",
+    "term_en": "Dockerfile",
+    "definition_ar": "ملف تعليمات لبناء صورة Docker.",
+    "definition_en": "Instructions to build a Docker image.",
+    "category_id": "cat_devops",
+    "example_code": "FROM ubuntu:latest\nRUN apt-get update",
+    "language": "dockerfile",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_20",
+    "term_ar": "Git Rebase",
+    "term_en": "Git Rebase",
+    "definition_ar": "إعادة تطبيق التغييرات من فرع على آخر.",
+    "definition_en": "Reapply commits on top of another branch.",
+    "category_id": "cat_devops",
+    "example_code": "git rebase main",
+    "language": "bash",
+    "extra_fields": []
+  }
+]
