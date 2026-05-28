@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "t_9",
+    "term_ar": "Promise في JavaScript",
+    "term_en": "JavaScript Promise",
+    "definition_ar": "يمثل قيمة غير معروفة في الوقت الحالي (غير متزامن).",
+    "definition_en": "Represents eventual completion of async operation.",
+    "category_id": "cat_web",
+    "example_code": "fetch(url).then(res => res.json())",
+    "language": "javascript",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_10",
+    "term_ar": "React Hooks (useState)",
+    "term_en": "React useState Hook",
+    "definition_ar": "يسمح بإضافة حالة إلى مكونات الدالة.",
+    "definition_en": "Adds state to functional components.",
+    "category_id": "cat_web",
+    "example_code": "const [count, setCount] = useState(0);",
+    "language": "javascript",
+    "extra_fields": []
+  },
+  {
+    "_id": "t_25",
+    "term_ar": "TypeScript Interfaces",
+    "term_en": "TypeScript Interfaces",
+    "definition_ar": "تحديد شكل الكائنات في TypeScript.",
+    "definition_en": "Define shape of objects.",
+    "category_id": "cat_web",
+    "example_code": "interface User { name: string; age: number; }",
+    "language": "typescript",
+    "extra_fields": []
+  }
+]
