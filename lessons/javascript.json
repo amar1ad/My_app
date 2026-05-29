@@ -1,1 +1,73 @@
-[]
+[
+  {
+    "_id": "l_2",
+    "title_ar": "جافا سكريبت للمبتدئين",
+    "title_en": "JavaScript for Beginners",
+    "description_ar": "تعلم أساسيات الجافا سكريبت من الصفر.",
+    "description_en": "Learn JavaScript basics from scratch.",
+    "language_id": "javascript",
+    "order": 2,
+    "sections": [
+      {
+        "type": "image",
+        "title": "شعار جافا سكريبت",
+        "content": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+      },
+      {
+        "type": "explanation",
+        "title": "المتغيرات",
+        "content": "let و const هما الطريقتان الحديثتان لتعريف المتغيرات."
+      },
+      {
+        "type": "code",
+        "title": "أمثلة",
+        "content": "let name = 'Ahmed';\nconst age = 25;",
+        "language": "javascript"
+      }
+    ]
+  },
+  {
+    "_id": "l_4",
+    "title_ar": "مقدمة إلى React",
+    "title_en": "Introduction to React",
+    "description_ar": "تعلم بناء واجهات المستخدم باستخدام React.",
+    "description_en": "Build user interfaces with React.",
+    "language_id": "javascript",
+    "order": 4,
+    "sections": [
+      {
+        "type": "image",
+        "title": "شعار React",
+        "content": "https://cdn-icons-png.flaticon.com/512/1126/1126012.png"
+      },
+      {
+        "type": "code",
+        "title": "مكون بسيط",
+        "content": "function Welcome() { return <h1>Hello</h1>; }",
+        "language": "javascript"
+      }
+    ]
+  },
+  {
+    "_id": "l_6",
+    "title_ar": "مقدمة إلى Docker",
+    "title_en": "Introduction to Docker",
+    "description_ar": "تعلم كيفية حزم التطبيقات في حاويات.",
+    "description_en": "Package applications in containers.",
+    "language_id": "javascript",
+    "order": 6,
+    "sections": [
+      {
+        "type": "image",
+        "title": "شعار Docker",
+        "content": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+      },
+      {
+        "type": "code",
+        "title": "Dockerfile",
+        "content": "FROM python:3.9\nCOPY . /app\nCMD ['python', 'app.py']",
+        "language": "javascript"
+      }
+    ]
+  }
+]
