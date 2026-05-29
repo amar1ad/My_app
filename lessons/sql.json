@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "l_3",
+    "title_ar": "SQL الأساسي",
+    "title_en": "Basic SQL",
+    "description_ar": "تعلم كيفية كتابة استعلامات SQL الأساسية (SELECT، INSERT، UPDATE، DELETE).",
+    "description_en": "Learn basic SQL queries.",
+    "language_id": "sql",
+    "order": 3,
+    "sections": [
+      {
+        "type": "image",
+        "title": "صورة قاعدة بيانات",
+        "content": "https://picsum.photos/id/20/400/200"
+      },
+      {
+        "type": "code",
+        "title": "SELECT",
+        "content": "SELECT * FROM users;",
+        "language": "sql"
+      }
+    ]
+  }
+]
